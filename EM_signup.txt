@@ -1,0 +1,2 @@
+('utkarsh', '19', 'utkarsh.v1901@gmail.com', 'em@123', 'em@123')('aghtrh', '65', 'dsfsggfvbfd', 'safd', 'sfads')
+/n('', '', '', '', '')/n('', '', '', '', '')/n('utkarsh', '19', 'utkarsh.v1901@gmail.com', 'qwerty', 'qwerty')/n('', '', '', '', '')/n('utkarsh', '18', 'CINO', 'TYVI', 'UHCIY')/n('MANAS', '18', 'manas123@gmail.com', '*********', '*********')
